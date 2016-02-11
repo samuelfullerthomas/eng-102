@@ -5,6 +5,13 @@ Engineering 102
 The purpose of this repo is to have a good resource for learning for U.S. CSEs
 
 ## Getting Started
+
+### Step 0
+
+Fork this repo!
+
+### Next
+
 First, you'll want a copy of Sublime Text 3 (or your favorite text editor) and the Standard and ES6 linter packages installed. To install packages into Sublime, you'll want to have have installed [package.io](http://package.io/)
 
 Other fun additions: JS Gutter is a good one, as it helps show you the changes that you've made to your file
@@ -18,10 +25,10 @@ So, this project uses a makefile to run it's tasks. Makefiles let you create a f
 After running an npm install, you're almost there. You'll want to run make watch and and then make start, and then you can naviagte to localhost:3000/index.html and you'll see a friendly message!
 
 ## Learning to do
-The first thing that you should get up to speed on is ES6. I found that this tutorial was probably the most helpful : http://ccoenraets.github.io/es6-tutorial/
+The first thing that you should get up to speed on is ES6. I found that this tutorial was probably the most helpful : http://ccoenraets.github.io/es6-tutorial/ 45 minutes
 
 Next, this react tutorial from the react devs is a great place to start
 
-https://facebook.github.io/react/docs/tutorial.html
+https://facebook.github.io/react/docs/tutorial.html 1-2 hours
 
-Finally, if you're wanting to get back up to speed on node and express (and maybe connecting that with a database), this is the tutorial for you : http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+Finally, if you're wanting to get back up to speed on node and express (and maybe connecting that with a database), this is the tutorial for you : http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/ - 45 minute tutorial
