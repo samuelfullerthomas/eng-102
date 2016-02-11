@@ -15,7 +15,7 @@ The repo is a skeleton structure for a React app, written in ES6 and JSX, runnin
 ## Up an running
 So, this project uses a makefile to run it's tasks. Makefiles let you create a file that runs commands in the commandline in a local repository. So kind of like Grunt. But much older.
 
-After running an npm install, you're almost there. You'll want to run webpack --watch and then node index.js, and then you can naviagte to localhost:3000/index.html and you'll see a friendly message!
+After running an npm install, you're almost there. You'll want to run make watch and and then make start, and then you can naviagte to localhost:3000/index.html and you'll see a friendly message!
 
 ## Learning to do
 The first thing that you should get up to speed on is ES6. I found that this tutorial was probably the most helpful : http://ccoenraets.github.io/es6-tutorial/
